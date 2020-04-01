@@ -1,0 +1,27 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Task_1_ADV_Weather WebServices Task",
+    "note": "",
+    "parameters": {
+        "enabled": false,
+        "execution_timeout": null,
+        "include_external_urls": true,
+        "job_alias": null,
+        "job_type": "regular",
+        "llfeed_token": "jt7hV7RHpcJO27SPNoN803JAQGK9hNIZ",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_parameters": {
+            "appid": "1796b857fe02d2c31edeaa044249bb4d",
+            "city": "Boston"
+        },
+        "pipeline_path": "Task_1_ADV_WeatherWebServices",
+        "snaplex_path": null
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}

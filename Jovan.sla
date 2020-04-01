@@ -1,0 +1,28 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Interworks-Partner"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Jovan"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "value": "jZlv9PvRgXDVWalq2fJ68Wy+q1/0mdR9x4/4BOoPuaBnB0Tfgem7snhG0DT63daQWbxyYpFJMZSs3I65NBVngk40J14nzbsg0UDjYpwn9gUCCYmJaoBXE1uBZssAZcbAEjsHD8iCSuPKIAc9/0JOVT1cJcYFN/GDL3nna6gnsxBfpZCzTTZGH0Md1ldtIdCU8dn4gqLg6aMqocFsUrAAo+m0t8dSCzkRPWsXC8qlkx5HC6fvwnXSXXY1Wu4W/ghwBrSzTmWKCXM6tK7AM5+4L8YCm1emF3GLArK58ox/e1qkm9ObSALmfxrsMbo0qf6EmF2W7kQt/Ker3aG01NtZ0g=="
+            },
+            "username": {
+                "value": "jovan.jovanovski"
+            }
+        },
+        "view_serial": 100
+    }
+}
